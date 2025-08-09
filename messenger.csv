@@ -1,0 +1,15 @@
+message_id,username,message_content,sent_on,received,receiver
+WFEUIO3,tim,I hate airline food,2020-06-12,TRUE,tod
+DLWIHE2,tod,Cats are fun,2020-07-12,FALSE,steve
+SHJWE1D,tod,I like cats,2020-08-11,TRUE,steve
+OIQEHFN,tom,I love doing coursework,2020-09-12,FALSE,steve
+23DFRSG,steve,I prefer wolves,2021-05-01,TRUE,tod
+KSJDU4R,tom,Dune 2 was great,2022-06-02,TRUE,pete
+SJD45HK,pete,I love airline food,2023-06-12,TRUE,tim
+NSDK3XD,tim,Dogs are so cool,2023-06-15,TRUE,steve
+MNMLOI8,pete,Data engineering is great,2023-06-20,FALSE,tod
+HJK7YUI,steve,I like blocks,2023-12-01,TRUE,tom
+SDXCF3R,tom,Why does Pete like airline food,2023-12-03,FALSE,tim
+MJKLNH3,pete,Kim K is fun,2023-12-03,TRUE,tim
+POLIUOD,tim,Someone bit me,2023-12-03,TRUE,pete
+U3HSUIF,tom,I take that back,2023-12-25,TRUE,steve
